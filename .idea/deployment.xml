@@ -10,6 +10,13 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="root@192.168.1.153:10401 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/workspace/cuda_learning" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
     </serverData>
     <option name="myAutoUpload" value="ALWAYS" />
   </component>
